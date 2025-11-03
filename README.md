@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
-<h3 align="center">I'm a CS + Math student at UML</h3>
+<h3 align="center">CS + Math student at UMass Lowell | Building AI-driven solutions</h3>
 
-- 🔭 I’m currently working on **building my personal portfolio website to showcase my projects and growth as a developer.**
+- I’m currently working on **JETA AI**, a real estate intelligence platform that integrates machine learning into property analytics.  
 
-- 🌱 I’m currently learning **frontend dev with React & Tailwind, while diving deeper into cybersecurity and system hardening.**
+- I’m learning **Machine Learning, Data Engineering, and Algorithm Design**, applying what I learn through hands-on backend projects.  
 
-- 💬 Ask me about **everaging AI in real-world projects.**
+-  I’m passionate about **bridging AI with real-world problems** — from financial analytics to health tech.  
 
-- 📫 How to reach me **lopesjordi0@gmail.com**
+-  Currently following the **Google Machine Learning Crash Course** and **NeetCode 150** to strengthen my ML and problem-solving skills.  
 
-- ⚡ Fun fact **I run half-marathons!**
+-  Reach me at **lopesjordi0@gmail.com**
+
+-  Fun fact: **My goal is to complete an Ironman and build something that truly impacts people’s lives.**
 
 
 
