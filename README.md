@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordi</h1>
+<h1 align="center">Hi, I'm Jordi</h1>
 <h3 align="center">
 Computer Science + Mathematics student at UMass Lowell<br/>
 Aspiring Machine Learning Engineer focused on algorithms and real-world impact
@@ -15,7 +15,7 @@ Aspiring Machine Learning Engineer focused on algorithms and real-world impact
 - Training with the long-term goal of competing in an **Ironman**
 - Enjoy studying **theology and philosophy**, especially questions about meaning, ethics, and responsibility in technology
 
-📫 Reach me at **lopesjordi0@gmail.com**
+Reach me at **lopesjordi0@gmail.com**
 
 ---
 
