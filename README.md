@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Jordi</h1>
-<h3 align="center">
-Computer Science + Mathematics student at UMass Lowell<br/>
-Machine Learning Engineer focused on algorithms and real-world impact
-</h3>
+<h3 align="center">CS + Applied Math @ UMass Lowell · Hardware Engineering Co-op @ Teradyne</h3>
 
-- I enjoy working on **algorithms, data, and machine learning systems**, especially when they power real products used by people.
-- I like problems where **correctness, performance, and engineering tradeoffs matter**, from backend systems to model-ready data workflows.
-- Actively strengthening my fundamentals through **machine learning study, algorithm practice, and hands-on engineering projects**.
-- Interested in roles that combine **ML, data engineering, and product-driven software development**.
+<p align="center">I understand the hardware before I write the software.</p>
+
+**Building**
+- Graduate advising intelligence platform — risk scoring, cohort anomaly detection, advisor behavior modeling
+- Sensor fusion algorithms and recovery scoring systems for wearable health tech
+- AI-powered tools for university students through A.I.M. Society
 
 **Fun facts**
-- Lifelong **Real Madrid** fan
-- Training with the long-term goal of competing in an **Ironman**
-- Enjoy studying **theology and philosophy**, especially questions about meaning, ethics, and responsibility in technology
+- Lifelong Real Madrid fan
+- Training toward an Ironman
+- Interested in theology and philosophy, especially ethics and responsibility in technology
 
 Reach me at **lopesjordi0@gmail.com**
 
