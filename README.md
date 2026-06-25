@@ -4,7 +4,7 @@
 <p align="center">I understand the hardware before I write the software.</p>
 
 **Building**
-- Graduate advising intelligence platform — risk scoring, cohort anomaly detection, advisor behavior modeling
+- Graduate advising intelligence platform, risk scoring, cohort anomaly detection, advisor behavior modeling
 - Sensor fusion algorithms and recovery scoring systems for wearable health tech
 - AI-powered tools for university students through A.I.M. Society
 
